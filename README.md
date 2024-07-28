@@ -22,4 +22,4 @@ Key features of the model are as follows:
 
 4. **Evaluation**:
   
-   The trained model is evaluated on the test set to determine its accuracy in recognizing and classifying handwritten digits.
+      The trained model is evaluated on the test set to determine its accuracy in recognizing and classifying handwritten digits.
