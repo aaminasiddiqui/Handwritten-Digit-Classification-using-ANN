@@ -20,4 +20,6 @@ Key features of the model are as follows:
    - **Optimizer**: An optimization algorithm Adam to update the model weights during training.
    - **Metrics**: Accuracy is used to evaluate the model's performance during training and testing.
 
-4. **Evaluation**: The trained model is evaluated on the test set to determine its accuracy in recognizing and classifying handwritten digits.
+4. **Evaluation**:
+  
+   The trained model is evaluated on the test set to determine its accuracy in recognizing and classifying handwritten digits.
